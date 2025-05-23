@@ -1,2 +1,2 @@
-// Este es un comentario agregado como parte del paso 5
-alert("hola mundo"); 
+alert("hola mundo_editado");
+console.log("cambios en el archivo");
